@@ -1,0 +1,28 @@
+### YamlMime:ZonePivotGroups
+groups:
+- id: platform
+  title: Platform
+  prompt: Choose your development environment
+  pivots:
+    - id: windows
+      title: Visual Studio 2019
+    - id: macos
+      title: Visual Studio for Mac
+- id: platform-dev16
+  title: Platform
+  prompt: Choose your development environment
+  pivots:
+    - id: windows
+      title: Visual Studio 2019
+    - id: win-vs2017
+      title: Visual Studio 2017
+    - id: macos
+      title: Visual Studio for Mac
+- id: platform-win
+  title: Platform
+  prompt: Choose your development environment
+  pivots:
+    - id: windows
+      title: Visual Studio 2019
+    - id: win-vs2017
+      title: Visual Studio 2017
