@@ -30,3 +30,5 @@ zone_pivot_groups: platform-dev16
 
 ## Step-by-step instructions
 ::: zone-end
+
+![sql-database-engine.png](./sql-database-engine.png)
