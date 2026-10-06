@@ -1,0 +1,34 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/to-be-archive/level1/article3-1-1.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level1/article3-1-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level1/article3-1-2.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level1/article3-1-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level1/article3-1-3.yml",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level1/article3-1-3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level2/article3-2-1.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level2/article3-2-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level2/article3-2-2.md",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level2/article3-2-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level2/article3-2-3.yml",
+      "redirect_url": "/archive/yml-archive/to-be-archive/level2/article3-2-3",
+      "redirect_document_id": false
+    }
+  ]
+}
